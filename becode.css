@@ -1,0 +1,140 @@
+/* image */
+
+#nerdy,#desk,#multitask,#code,#inspi,#group
+{
+    border-radius: 10% ;
+    margin-right: 25%;
+    margin-left: 25%;
+    width: 40%;
+    height: 40%;
+    padding-top: 10px;
+  }
+
+#team
+{
+    width: 15%; height: 15%;
+    border-radius: 10% ;
+}
+
+
+
+
+/*alignement des vignettes*/
+
+.part1,.part2,.part3,.part4,.part5
+{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:80% ;
+    height:80% ;
+    border-radius: 5%;
+
+}
+
+img,p
+{
+    display: flex;
+    align-content: center;
+}
+
+
+/* colori des vignettes trouver un moyen d'éviter les rpétitions de lignes */
+
+.part1
+{
+  background-color: #ffe0e5;
+}
+.part2
+
+{
+  background-color:#ebdfcf;
+ }
+ .part3
+{
+  background-color:#5ad5ff;
+}
+
+.part4
+{
+  background-color:#fdd832;
+}
+
+.part5
+{
+   background-color: cornflowerblue;
+}
+/*mise en page du texte*/
+
+/* fond*/
+body
+{
+ background-color:#437394;
+}
+
+
+
+
+p,h2,h4,ul
+{
+ font-family: 'Dosis', sans-serif;
+ padding-top: 10px;
+ padding-bottom: 20Px;
+ margin-right: 20%;
+ margin-left: 20%;
+ color : black;
+}
+#citation
+{
+ font-size: 20px;
+ text-align: center;
+}
+{
+  font-size: 20px;
+}
+h2
+{
+ text-align: center;
+}
+hr
+{
+ width: 20cm;
+ height: 1px;
+ background-color:black;
+ border: none;
+ 
+}
+
+
+li
+{
+    padding-left: 5px;
+    padding-right: 5px;
+    list-style-type: none;
+    margin-bottom: 20px;
+    display: inline;
+}
+
+nav ul
+{
+ text-align: center;
+ padding-bottom: 20px;
+ padding-top: 20px;
+}
+
+
+a
+{
+ color:white;
+ text-decoration: none;
+ 
+}
+
+
+
+
+
+
+
